@@ -1,9 +1,6 @@
-# NYC_Citibike_Challenge
+# Module 14 Challenge - CitiBike NYC Analysis
 
 ## [link to dashboard](https://public.tableau.com/app/profile/morris4358/viz/challenge14_16562756470680/Story1?publish=yes)
-
-# Module_14_Challenge
-Module 14 Challenge - CitiBike NYC Analysis
 
 ## Overview of Project
 This project involves using Tableau to analyze data related to a bike sharing program in NYC and create visualizations and a Tableau Story to communicate those findings. 
@@ -39,4 +36,26 @@ The purpose of this challenge is to take a CSV file containing data related to t
 ![image](https://github.com/morriscomia/NYC_Citibike_Challenge/blob/main/IMAGES/Trips%20by%20Gender%20and%20User%20Type%20(Weekday%20per%20Hour).jpeg)
 
 - This Figure shows that the bike sharing service is mostly used by males during the weekdays, and a little less so on the weekends.
+
+## Summary
+
+Provide a high-level summary of the results and
+
+### Future Analysis
+
+Create visualizations for:
+
+* Checkout duration by age with new trip duration format
+* Trip duration by user type
+* User type by gender
+* add lat/long for drop off locations for the most used bikes (show example)
+
+## Recommendation for future data gathering
+
+* Gather data on other bike sharing companies in other cities.
+* New York city data may correlate but almost certainly will not directly translate to a mid-western, less dense (in terms of population) city.
+* Gather data on startup costs
+* Cost of bikes
+* * Gather data on cost of bike repairs and revenue per customer to determine business sustainability.
+
 
