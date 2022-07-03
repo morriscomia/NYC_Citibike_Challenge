@@ -39,8 +39,6 @@ The purpose of this challenge is to take a CSV file containing data related to t
 
 ## Summary
 
-Provide a high-level summary of the results and
-
 ### Future Analysis
 
 Create visualizations for:
