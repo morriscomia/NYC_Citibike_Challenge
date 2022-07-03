@@ -23,15 +23,20 @@ The purpose of this challenge is to take a CSV file containing data related to t
 
 ### Checkout Times by Gender
 ![image](https://github.com/morriscomia/NYC_Citibike_Challenge/blob/main/IMAGES/Checkout%20Times%20by%20Gender.jpeg)
+-Figure 2 shows that the bulk of bike sharing usage is from males during the work week. The frequency of female usage is lower, but follows the same trends with most preferring short rides of about 8 minutes or less. There are still many, but significantly less, rides in the medium 10-20 minute range.
 
 
 ### Trips by Weekday for Each Hour 
 ![image](https://github.com/morriscomia/NYC_Citibike_Challenge/blob/main/IMAGES/Trips%20(Weekday%20per%20Hour).jpeg)
+- This figure shows that the bike sharing service is not only used mostly during weekdays, but also shows peak hours are during 6 A.M. to 10 A.M. and 5 P.M. to 8 P.M., also known as the "rush hour" period. Figure 3 also shows moderate bike share usage on the weekends, mostly during the afternoon. This would be the time most people are going out to shops, visiting the city's park, seeing sights, and more.
 
 ### Trips by Gender (Weekday per Hour)
 ![image](https://github.com/morriscomia/NYC_Citibike_Challenge/blob/main/IMAGES/Trips%20by%20Gender%20(Weekday%20per%20Hour).jpeg)
+-This Figurevshows that the bulk of bike sharing usage is from males during the work week. Female usage is lower, but follows the same trends with most usage occurring during rush hour on weekdays.
+
 
 ### User Trips by Gender by Weekday 
 ![image](https://github.com/morriscomia/NYC_Citibike_Challenge/blob/main/IMAGES/Trips%20by%20Gender%20and%20User%20Type%20(Weekday%20per%20Hour).jpeg)
 
+- This Figure shows that the bike sharing service is mostly used by males during the weekdays, and a little less so on the weekends.
 
