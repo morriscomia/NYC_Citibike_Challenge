@@ -24,14 +24,14 @@ The purpose of this challenge is to take a CSV file containing data related to t
 ### Checkout Times by Gender
 ![image](https://github.com/morriscomia/NYC_Citibike_Challenge/blob/main/IMAGES/Checkout%20Times%20by%20Gender.jpeg)
 
-### Trips by Weekday for Each Hour
+
+### Trips by Weekday for Each Hour 
+![image](https://github.com/morriscomia/NYC_Citibike_Challenge/blob/main/IMAGES/Trips%20(Weekday%20per%20Hour).jpeg)
 
 ### Trips by Gender (Weekday per Hour)
+![image](https://github.com/morriscomia/NYC_Citibike_Challenge/blob/main/IMAGES/Trips%20by%20Gender%20(Weekday%20per%20Hour).jpeg)
 
 ### User Trips by Gender by Weekday 
+![image](https://github.com/morriscomia/NYC_Citibike_Challenge/blob/main/IMAGES/Trips%20by%20Gender%20and%20User%20Type%20(Weekday%20per%20Hour).jpeg)
 
-
-![Rides by Duration and Gender](https://github.com/morriscomia/NYC_Citibike_Challenge/blob/main/IMAGES/Checkout%20Times%20by%20Gender.jpeg)
-
-- The data show similar trends in trip duration regardless of gender.
 
