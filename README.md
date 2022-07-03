@@ -21,7 +21,15 @@ The purpose of this challenge is to take a CSV file containing data related to t
 
 - A remarkable number of trips have a duration of 5 minutes or less, and there are very few trips with a duration of 30 minutes or more.
 
-- The following visualization shows the distribution of rides by duration, broken out by gender:
+### Checkout Times by Gender
+![image](https://github.com/morriscomia/NYC_Citibike_Challenge/blob/main/IMAGES/Checkout%20Times%20by%20Gender.jpeg)
+
+### Trips by Weekday for Each Hour
+
+### Trips by Gender (Weekday per Hour)
+
+### User Trips by Gender by Weekday 
+
 
 ![Rides by Duration and Gender](https://github.com/morriscomia/NYC_Citibike_Challenge/blob/main/IMAGES/Checkout%20Times%20by%20Gender.jpeg)
 
