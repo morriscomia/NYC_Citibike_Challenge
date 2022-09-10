@@ -1,8 +1,8 @@
-### CitiBike NYC Analysis
+##CitiBike NYC Analysis
 
 ## [link to dashboard](https://public.tableau.com/app/profile/morris4358/viz/challenge14_16562756470680/Story1?publish=yes)
 
-## Overview of Project
+### Overview of Project
 This project involves using Tableau to analyze data related to a bike sharing program in NYC and create visualizations and a Tableau Story to communicate those findings. 
 
 ### Purpose
